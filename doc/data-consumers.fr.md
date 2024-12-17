@@ -1,4 +1,4 @@
-fr | [en](/data-consumers.md)
+fr | [en](data-consumers.md)
 # Artsdata Data Consumers List
 
 | Orgnaization | Maintained by | Official website | Github repository |
