@@ -1,0 +1,2697 @@
+[
+    [
+        {
+            "@context": "http://schema.org",
+            "@type": "Event",
+            "name": "Atelier d’initiation théâtrale pour adultes",
+            "startDate": "2025-01-28T18:30-05:00",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "description": "L'Atelier vous invite à découvrir l'art de la scène en vous inscrivant à leurs cours d'initiation au théâtre. Vous n’êtes jamais monté sur scène et vous désirez y aller tout doucement ? À travers des jeux et des exercices, vous découvrirez les bases de l’interprétation et de l’expression dramatique. Vous serez amené à travailler sur des scènes et explorerez des notions comme l’objectif de personnage, le sous-texte, le conflit, etc. Le tout se fait dans une atmosphère ludique et détendue. Une pause des cours aura lieu le 18 février 2025",
+            "image": "https://www.laval.ca/wp-content/uploads/2025/01/latelier-cours-initiation-theatre-adultes-335x215-1.jpg",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "location": {
+                "@type": "Place",
+                "@id": "https://www.laval.ca/places/centre-communautaire-le-sorbier-sainte-rose/",
+                "name": "Centre communautaire Le Sorbier (Sainte-Rose)",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "140 Rue Nadon",
+                    "addressLocality": "Laval",
+                    "addressRegion": "QC",
+                    "addressCountry": "CA"
+                }
+            },
+            "offers": {
+                "priceCurrency": "CAD",
+                "@type": "Offer",
+                "price": "75"
+            },
+            "subEvent": [
+                {
+                    "@type": "Event",
+                    "name": "Atelier d’initiation théâtrale pour adultes",
+                    "startDate": "2025-01-28T18:30-05:00",
+                    "endDate": "2025-01-28T20:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-communautaire-le-sorbier-sainte-rose/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Atelier d’initiation théâtrale pour adultes",
+                    "startDate": "2025-02-04T18:30-05:00",
+                    "endDate": "2025-02-04T20:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-communautaire-le-sorbier-sainte-rose/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Atelier d’initiation théâtrale pour adultes",
+                    "startDate": "2025-02-11T18:30-05:00",
+                    "endDate": "2025-02-11T20:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-communautaire-le-sorbier-sainte-rose/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Atelier d’initiation théâtrale pour adultes",
+                    "startDate": "2025-02-25T18:30-05:00",
+                    "endDate": "2025-02-25T20:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-communautaire-le-sorbier-sainte-rose/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Atelier d’initiation théâtrale pour adultes",
+                    "startDate": "2025-03-04T18:30-05:00",
+                    "endDate": "2025-03-04T20:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-communautaire-le-sorbier-sainte-rose/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Atelier d’initiation théâtrale pour adultes",
+                    "startDate": "2025-03-11T18:30-04:00",
+                    "endDate": "2025-03-11T20:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-communautaire-le-sorbier-sainte-rose/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Atelier d’initiation théâtrale pour adultes",
+                    "startDate": "2025-03-18T18:30-04:00",
+                    "endDate": "2025-03-18T20:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-communautaire-le-sorbier-sainte-rose/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Atelier d’initiation théâtrale pour adultes",
+                    "startDate": "2025-03-25T18:30-04:00",
+                    "endDate": "2025-03-25T20:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-communautaire-le-sorbier-sainte-rose/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Atelier d’initiation théâtrale pour adultes",
+                    "startDate": "2025-04-01T18:30-04:00",
+                    "endDate": "2025-04-01T20:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-communautaire-le-sorbier-sainte-rose/"
+                    }
+                }
+            ],
+            "additionalType": [
+                "https://www.laval.ca/Category#expositions-et-spectacles",
+                "https://www.laval.ca/Category#theatre",
+                "https://www.laval.ca/Public#adultes"
+            ]
+        },
+        {
+            "id": "https://www.laval.ca/Category#expositions-et-spectacles",
+            "type": "skos:Concept",
+            "name": "Expositions et spectacles",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Category"
+            }
+        },
+        {
+            "id": "https://www.laval.ca/Category#theatre",
+            "type": "skos:Concept",
+            "name": "Théâtre",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Category"
+            }
+        },
+        {
+            "id": "https://www.laval.ca/Public#adultes",
+            "type": "skos:Concept",
+            "name": "Adultes",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Public"
+            }
+        }
+    ],
+    [
+        {
+            "@context": "http://schema.org",
+            "@type": "Event",
+            "name": "J’aime les chiens",
+            "startDate": "2025-01-26T12:00-05:00",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "description": "Les champs « début de l'événement » et « fin de l'événement » serait les dates de la première occurrence ( ex : 2 au 2 octobre) comme ça fonctionne actuellement. On aimerait que le champs soit alors renommé « Fin de l'événement ou date de la première occurrence. »  Dans le listing, une pastille « Activité récurrente » est ajouté pour chaque activité qui a une récurrence.  Cette pastille se met automatiquement lorsque mon événement est récurent. Toutefois, le contenu dans la pastille reste modifiable (ex : je voudrais changer le contenu de ma pastille pour la dernière récurrence de mon activité.)  Lorsque j'ai une récurrence, un bandeau doit être activé sur ma fiche d'activité afin d'indiquer rapidement aux utilisateurs la récurrence. Il s'agit d'un champs texte",
+            "image": "https://www.laval.ca/wp-content/uploads/2024/03/produits-hygiene-durables-335x215-1.jpg",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "location": {
+                "@type": "Place",
+                "@id": "https://www.laval.ca/places/centre-de-la-nature/",
+                "name": "Centre de la nature",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "901, avenue du Parc Laval (Québec)  H7E 2T7",
+                    "addressLocality": "Laval",
+                    "addressRegion": "QC",
+                    "addressCountry": "CA"
+                }
+            },
+            "subEvent": [
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-01-26T12:00-05:00",
+                    "endDate": "2025-01-26T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-01-27T12:00-05:00",
+                    "endDate": "2025-01-27T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-01-28T12:00-05:00",
+                    "endDate": "2025-01-28T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-01-29T12:00-05:00",
+                    "endDate": "2025-01-29T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-01-30T12:00-05:00",
+                    "endDate": "2025-01-30T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-01-31T12:00-05:00",
+                    "endDate": "2025-01-31T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-02-01T12:00-05:00",
+                    "endDate": "2025-02-01T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-02-02T12:00-05:00",
+                    "endDate": "2025-02-02T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-02-03T12:00-05:00",
+                    "endDate": "2025-02-03T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-02-04T12:00-05:00",
+                    "endDate": "2025-02-04T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-02-05T12:00-05:00",
+                    "endDate": "2025-02-05T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-02-06T12:00-05:00",
+                    "endDate": "2025-02-06T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-02-07T12:00-05:00",
+                    "endDate": "2025-02-07T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-02-08T12:00-05:00",
+                    "endDate": "2025-02-08T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-02-09T12:00-05:00",
+                    "endDate": "2025-02-09T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-02-10T12:00-05:00",
+                    "endDate": "2025-02-10T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-02-11T12:00-05:00",
+                    "endDate": "2025-02-11T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-02-12T12:00-05:00",
+                    "endDate": "2025-02-12T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-02-13T12:00-05:00",
+                    "endDate": "2025-02-13T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-02-14T12:00-05:00",
+                    "endDate": "2025-02-14T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-02-15T12:00-05:00",
+                    "endDate": "2025-02-15T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-02-16T12:00-05:00",
+                    "endDate": "2025-02-16T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-02-17T12:00-05:00",
+                    "endDate": "2025-02-17T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-02-18T12:00-05:00",
+                    "endDate": "2025-02-18T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-02-19T12:00-05:00",
+                    "endDate": "2025-02-19T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-02-20T12:00-05:00",
+                    "endDate": "2025-02-20T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-02-21T12:00-05:00",
+                    "endDate": "2025-02-21T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-02-22T12:00-05:00",
+                    "endDate": "2025-02-22T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "J’aime les chiens",
+                    "startDate": "2025-02-23T12:00-05:00",
+                    "endDate": "2025-02-23T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                }
+            ],
+            "additionalType": [
+                "https://www.laval.ca/Category#arts",
+                "https://www.laval.ca/Category#centre-de-la-nature",
+                "https://www.laval.ca/Public#adolescents"
+            ]
+        },
+        {
+            "id": "https://www.laval.ca/Category#arts",
+            "type": "skos:Concept",
+            "name": "Arts",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Category"
+            }
+        },
+        {
+            "id": "https://www.laval.ca/Category#centre-de-la-nature",
+            "type": "skos:Concept",
+            "name": "Centre de la nature",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Category"
+            }
+        },
+        {
+            "id": "https://www.laval.ca/Public#adolescents",
+            "type": "skos:Concept",
+            "name": "Adolescents",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Public"
+            }
+        }
+    ],
+    [
+        {
+            "@context": "http://schema.org",
+            "@type": "Event",
+            "name": "Activité Noel",
+            "startDate": "2025-01-06T12:00-05:00",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "description": "Chaussez vos patins afin de profiter des arénas municipaux pour des périodes de pratiques libres. Les arénas municipaux offrent un accès gratuit à Internet sans fil via le réseau LAVALPublic. Le hockey libre est une activité offerte à la population lavalloise de 18 ans et plus au coût de 12 $. L'activité est offerte uniquement au Complexe Sportif Guimond. La réservation en ligne est obligatoire selon l’information ci-dessous.",
+            "image": "https://www.laval.ca/wp-content/uploads/2024/12/test-resize.svg",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "location": {
+                "@type": "Place",
+                "@id": "https://www.laval.ca/places/bibliotheque-gabrielle-roy/",
+                "name": "Bibliothèque Gabrielle-Roy",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "3505 boulevard Dagenais Ouest,Fabreville  H7P 4V9",
+                    "addressLocality": "Laval",
+                    "addressRegion": "QC",
+                    "addressCountry": "CA"
+                }
+            },
+            "offers": {
+                "url": "https://www.laval.ca/Pages/Fr/Calendrier/patinage-libre-arenas-municipaux.aspx",
+                "priceCurrency": "CAD",
+                "@type": "AggregateOffer",
+                "lowPrice": "12 ",
+                "highPrice": "15 "
+            },
+            "subEvent": [
+                {
+                    "@type": "Event",
+                    "name": "Activité Noel",
+                    "startDate": "2025-01-06T12:00-05:00",
+                    "endDate": "2025-01-06T17:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-gabrielle-roy/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Activité Noel",
+                    "startDate": "2025-01-13T12:00-05:00",
+                    "endDate": "2025-01-13T17:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-gabrielle-roy/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Activité Noel",
+                    "startDate": "2025-01-20T12:00-05:00",
+                    "endDate": "2025-01-20T17:00-05:00",
+                    "eventStatus": "https://schema.org/EventCancelled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-gabrielle-roy/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Activité Noel",
+                    "startDate": "2025-01-27T12:00-05:00",
+                    "endDate": "2025-01-27T17:00-05:00",
+                    "eventStatus": "https://schema.org/EventCancelled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-gabrielle-roy/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Activité Noel",
+                    "startDate": "2025-02-03T12:00-05:00",
+                    "endDate": "2025-02-03T17:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-gabrielle-roy/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Activité Noel",
+                    "startDate": "2025-02-10T12:00-05:00",
+                    "endDate": "2025-02-10T17:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-gabrielle-roy/"
+                    }
+                }
+            ],
+            "additionalType": [
+                "https://www.laval.ca/Category#sport",
+                "https://www.laval.ca/Public#adolescents"
+            ]
+        },
+        {
+            "id": "https://www.laval.ca/Category#sport",
+            "type": "skos:Concept",
+            "name": "Sport",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Category"
+            }
+        },
+        {
+            "id": "https://www.laval.ca/Public#adolescents",
+            "type": "skos:Concept",
+            "name": "Adolescents",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Public"
+            }
+        }
+    ],
+    [
+        {
+            "@context": "http://schema.org",
+            "@type": "Event",
+            "name": "Activité",
+            "startDate": "2024-12-31T10:00-05:00",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "description": "Si on a une activité qui n'a pas de récurrence, mais qu'on souhaite la faire afficher du 2 au 8 octobre (ex : un festival) on pourra le faire, on a juste à ne pas activer le bouton « générer des occurrences ». ",
+            "image": "https://www.laval.ca/wp-content/uploads/2024/05/diana-polekhina-pvltA6Ur6S0-unsplash.jpg",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "location": {
+                "@type": "Place",
+                "@id": "https://www.laval.ca/places/centre-de-la-nature/",
+                "name": "Centre de la nature",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "901, avenue du Parc Laval (Québec)  H7E 2T7",
+                    "addressLocality": "Laval",
+                    "addressRegion": "QC",
+                    "addressCountry": "CA"
+                }
+            },
+            "offers": {
+                "url": "https://www.laval.ca/Pages/Fr/accueil.aspx",
+                "priceCurrency": "CAD",
+                "@type": "AggregateOffer",
+                "lowPrice": "10",
+                "highPrice": "5"
+            },
+            "subEvent": [
+                {
+                    "@type": "Event",
+                    "name": "Activité",
+                    "startDate": "2024-12-31T10:00-05:00",
+                    "endDate": "2024-12-31T10:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Activité",
+                    "startDate": "2025-01-07T10:00-05:00",
+                    "endDate": "2025-01-07T10:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Activité",
+                    "startDate": "2025-01-14T10:00-05:00",
+                    "endDate": "2025-01-14T10:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Activité",
+                    "startDate": "2025-01-21T10:00-05:00",
+                    "endDate": "2025-01-21T10:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Activité",
+                    "startDate": "2025-01-28T10:00-05:00",
+                    "endDate": "2025-01-28T10:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Activité",
+                    "startDate": "2025-02-04T10:00-05:00",
+                    "endDate": "2025-02-04T10:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Activité",
+                    "startDate": "2025-02-11T10:00-05:00",
+                    "endDate": "2025-02-11T10:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Activité",
+                    "startDate": "2025-02-18T10:00-05:00",
+                    "endDate": "2025-02-18T10:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Activité",
+                    "startDate": "2025-02-25T10:00-05:00",
+                    "endDate": "2025-02-25T10:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centre-de-la-nature/"
+                    }
+                }
+            ],
+            "additionalType": [
+                "https://www.laval.ca/Category#arts",
+                "https://www.laval.ca/Public#adolescents"
+            ]
+        },
+        {
+            "id": "https://www.laval.ca/Category#arts",
+            "type": "skos:Concept",
+            "name": "Arts",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Category"
+            }
+        },
+        {
+            "id": "https://www.laval.ca/Public#adolescents",
+            "type": "skos:Concept",
+            "name": "Adolescents",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Public"
+            }
+        }
+    ],
+    [
+        {
+            "@context": "http://schema.org",
+            "@type": "Event",
+            "name": "test",
+            "startDate": "2024-12-11T00:00-05:00",
+            "endDate": "2025-02-28T00:00-05:00",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "location": {
+                "@type": "Place",
+                "@id": "https://www.laval.ca/places/centropolis/",
+                "name": "Centropolis",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "1799, avenue Pierre-Péladeau  Laval, (QC) H7T 2Y5",
+                    "addressLocality": "Laval",
+                    "addressRegion": "QC",
+                    "addressCountry": "CA"
+                }
+            },
+            "additionalType": [
+                "https://www.laval.ca/Category#arts",
+                "https://www.laval.ca/Public#adolescents"
+            ]
+        },
+        {
+            "id": "https://www.laval.ca/Category#arts",
+            "type": "skos:Concept",
+            "name": "Arts",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Category"
+            }
+        },
+        {
+            "id": "https://www.laval.ca/Public#adolescents",
+            "type": "skos:Concept",
+            "name": "Adolescents",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Public"
+            }
+        }
+    ],
+    [
+        {
+            "@context": "http://schema.org",
+            "@type": "Event",
+            "name": "Testing EVE link",
+            "startDate": "2024-12-16T00:00-05:00",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "eventStatus": "https://schema.org/EventCancelled",
+            "location": {
+                "@type": "Place",
+                "@id": "https://www.laval.ca/places/parc-des-princes/",
+                "name": "Parc des Princes",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "2585 Boulevard des Oiseaux",
+                    "addressLocality": "Laval",
+                    "addressRegion": "QC",
+                    "addressCountry": "CA"
+                }
+            },
+            "offers": {
+                "priceCurrency": "CAD",
+                "@type": "Offer",
+                "price": "12  pour moins de 12 ans - 20  pour moins de 49 ans - 15  pour plus de 50 ans 000000000000000000000000000000000000000000000000000000"
+            },
+            "subEvent": [
+                {
+                    "@type": "Event",
+                    "name": "Testing EVE link",
+                    "startDate": "2024-12-16T00:00-05:00",
+                    "endDate": "2024-12-31T14:48-05:00",
+                    "eventStatus": "https://schema.org/EventCancelled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/parc-des-princes/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Testing EVE link",
+                    "startDate": "2024-12-19T00:00-05:00",
+                    "endDate": "2025-01-03T14:48-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/parc-des-princes/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Testing EVE link",
+                    "startDate": "2024-12-23T00:00-05:00",
+                    "endDate": "2025-01-07T14:48-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/parc-des-princes/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Testing EVE link",
+                    "startDate": "2024-12-26T00:00-05:00",
+                    "endDate": "2025-01-10T14:48-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/parc-des-princes/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Testing EVE link",
+                    "startDate": "2024-12-30T00:00-05:00",
+                    "endDate": "2025-01-14T14:48-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/parc-des-princes/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Testing EVE link",
+                    "startDate": "2025-01-02T00:00-05:00",
+                    "endDate": "2025-01-17T14:48-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/parc-des-princes/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Testing EVE link",
+                    "startDate": "2025-01-06T00:00-05:00",
+                    "endDate": "2025-01-21T14:48-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/parc-des-princes/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Testing EVE link",
+                    "startDate": "2025-01-09T00:00-05:00",
+                    "endDate": "2025-01-24T14:48-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/parc-des-princes/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Testing EVE link",
+                    "startDate": "2025-01-13T00:00-05:00",
+                    "endDate": "2025-01-28T14:48-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/parc-des-princes/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Testing EVE link",
+                    "startDate": "2025-01-16T00:00-05:00",
+                    "endDate": "2025-01-31T14:48-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/parc-des-princes/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Testing EVE link",
+                    "startDate": "2025-01-20T00:00-05:00",
+                    "endDate": "2025-02-04T14:48-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/parc-des-princes/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Testing EVE link",
+                    "startDate": "2025-01-23T00:00-05:00",
+                    "endDate": "2025-02-07T14:48-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/parc-des-princes/"
+                    }
+                }
+            ],
+            "additionalType": [
+                "https://www.laval.ca/Category#atelier",
+                "https://www.laval.ca/Category#bibliotheque",
+                "https://www.laval.ca/Category#bingo",
+                "https://www.laval.ca/Category#centre-de-la-nature",
+                "https://www.laval.ca/Public#adolescents",
+                "https://www.laval.ca/Public#adultes",
+                "https://www.laval.ca/Public#aines"
+            ]
+        },
+        {
+            "id": "https://www.laval.ca/Category#atelier",
+            "type": "skos:Concept",
+            "name": "Atelier",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Category"
+            }
+        },
+        {
+            "id": "https://www.laval.ca/Category#bibliotheque",
+            "type": "skos:Concept",
+            "name": "Bibliothèque",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Category"
+            }
+        },
+        {
+            "id": "https://www.laval.ca/Category#bingo",
+            "type": "skos:Concept",
+            "name": "Bingo",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Category"
+            }
+        },
+        {
+            "id": "https://www.laval.ca/Category#centre-de-la-nature",
+            "type": "skos:Concept",
+            "name": "Centre de la nature",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Category"
+            }
+        },
+        {
+            "id": "https://www.laval.ca/Public#adolescents",
+            "type": "skos:Concept",
+            "name": "Adolescents",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Public"
+            }
+        },
+        {
+            "id": "https://www.laval.ca/Public#adultes",
+            "type": "skos:Concept",
+            "name": "Adultes",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Public"
+            }
+        },
+        {
+            "id": "https://www.laval.ca/Public#aines",
+            "type": "skos:Concept",
+            "name": "Aînés",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Public"
+            }
+        }
+    ],
+    [
+        {
+            "@context": "http://schema.org",
+            "@type": "Event",
+            "name": "Activité (option1)",
+            "startDate": "2024-11-30T09:00-05:00",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "description": "Test contenu",
+            "image": "https://www.laval.ca/wp-content/uploads/2024/10/logo-CDN-Laval.png",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "location": {
+                "@type": "Place",
+                "@id": "https://www.laval.ca/places/bibliotheque-multiculturelle/",
+                "name": "Bibliothèque Multiculturelle",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "1535, boulevard Chomedey Laval (Québec) H7V 3R2",
+                    "addressLocality": "Laval",
+                    "addressRegion": "QC",
+                    "addressCountry": "CA"
+                }
+            },
+            "subEvent": [
+                {
+                    "@type": "Event",
+                    "name": "Activité (option1)",
+                    "startDate": "2024-11-30T09:00-05:00",
+                    "endDate": "2024-12-14T10:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-multiculturelle/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Activité (option1)",
+                    "startDate": "2024-09-25T09:00-04:00",
+                    "endDate": "2024-12-05T10:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-multiculturelle/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Activité (option1)",
+                    "startDate": "2024-10-02T09:00-04:00",
+                    "endDate": "2024-12-12T10:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-multiculturelle/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Activité (option1)",
+                    "startDate": "2024-10-09T09:00-04:00",
+                    "endDate": "2024-12-19T10:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-multiculturelle/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Activité (option1)",
+                    "startDate": "2024-10-16T09:00-04:00",
+                    "endDate": "2024-12-26T10:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-multiculturelle/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Activité (option1)",
+                    "startDate": "2024-10-30T09:00-04:00",
+                    "endDate": "2025-01-09T10:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-multiculturelle/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Activité (option1)",
+                    "startDate": "2024-11-06T09:00-05:00",
+                    "endDate": "2025-01-16T10:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-multiculturelle/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Activité (option1)",
+                    "startDate": "2024-11-13T09:00-05:00",
+                    "endDate": "2025-01-23T10:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-multiculturelle/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Activité (option1)",
+                    "startDate": "2024-11-20T09:00-05:00",
+                    "endDate": "2025-01-30T10:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-multiculturelle/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Activité (option1)",
+                    "startDate": "2024-11-27T09:00-05:00",
+                    "endDate": "2025-02-06T10:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-multiculturelle/"
+                    }
+                }
+            ],
+            "additionalType": [
+                "https://www.laval.ca/Category#activites-virtuelles",
+                "https://www.laval.ca/Category#bingo",
+                "https://www.laval.ca/Category#evenements-et-festivals"
+            ]
+        },
+        {
+            "id": "https://www.laval.ca/Category#activites-virtuelles",
+            "type": "skos:Concept",
+            "name": "Activités virtuelles",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Category"
+            }
+        },
+        {
+            "id": "https://www.laval.ca/Category#bingo",
+            "type": "skos:Concept",
+            "name": "Bingo",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Category"
+            }
+        },
+        {
+            "id": "https://www.laval.ca/Category#evenements-et-festivals",
+            "type": "skos:Concept",
+            "name": "Événements et festivals",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Category"
+            }
+        }
+    ],
+    [
+        {
+            "@context": "http://schema.org",
+            "@type": "Event",
+            "name": "A TEST OCCURENCES – WALT",
+            "startDate": "2025-01-04T00:18-05:00",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "description": "test d'occurences - WALT",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "location": {
+                "@type": "Place",
+                "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/",
+                "name": "Bibliothèque Laure-Conan ",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "4660 boulevard des Laurentides, Auteuil H7K 2J4",
+                    "addressLocality": "Laval",
+                    "addressRegion": "QC",
+                    "addressCountry": "CA"
+                }
+            },
+            "subEvent": [
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-01-04T00:18-05:00",
+                    "endDate": "2024-12-03T15:19-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-01-07T00:18-05:00",
+                    "endDate": "2025-02-08T15:19-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-01-10T00:18-05:00",
+                    "endDate": "2025-02-11T15:19-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-01-11T00:18-05:00",
+                    "endDate": "2025-02-12T15:19-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-01-14T00:18-05:00",
+                    "endDate": "2025-02-15T15:19-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-01-17T00:18-05:00",
+                    "endDate": "2025-02-18T15:19-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-01-18T00:18-05:00",
+                    "endDate": "2025-02-19T15:19-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-01-21T00:18-05:00",
+                    "endDate": "2025-02-22T15:19-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-01-24T00:18-05:00",
+                    "endDate": "2025-02-25T15:19-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-01-25T00:18-05:00",
+                    "endDate": "2025-02-26T15:19-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-01-28T00:18-05:00",
+                    "endDate": "2025-03-01T15:19-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-01-31T00:18-05:00",
+                    "endDate": "2025-03-04T15:19-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-02-01T00:18-05:00",
+                    "endDate": "2025-03-05T15:19-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-02-04T00:18-05:00",
+                    "endDate": "2025-03-08T15:19-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-02-07T00:18-05:00",
+                    "endDate": "2025-03-11T15:19-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-02-08T00:18-05:00",
+                    "endDate": "2025-03-12T15:19-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-02-11T00:18-05:00",
+                    "endDate": "2025-03-15T15:19-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-02-14T00:18-05:00",
+                    "endDate": "2025-03-18T15:19-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-02-15T00:18-05:00",
+                    "endDate": "2025-03-19T15:19-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-02-18T00:18-05:00",
+                    "endDate": "2025-03-22T15:19-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-02-21T00:18-05:00",
+                    "endDate": "2025-03-25T15:19-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-02-22T00:18-05:00",
+                    "endDate": "2025-03-26T15:19-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-02-25T00:18-05:00",
+                    "endDate": "2025-03-29T15:19-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-02-28T00:18-05:00",
+                    "endDate": "2025-04-01T15:19-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-03-01T00:18-05:00",
+                    "endDate": "2025-04-02T15:19-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "A TEST OCCURENCES – WALT",
+                    "startDate": "2025-03-04T00:18-05:00",
+                    "endDate": "2025-04-05T15:19-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/bibliotheque-laure-conan/"
+                    }
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "@context": "http://schema.org",
+            "@type": "Event",
+            "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+            "startDate": "2024-08-29T11:00-04:00",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "description": "H1 - Titre de niveau 1 Le titre s’affiche toujours dans le haut d’une page et n'apparaît qu’une seule fois par page. Le titre correspond au niveau H1. H2 - Titre de niveau 2 Les sous-titres sont utilisés pour organiser le contenu et offrir une hiérarchie claire à l’ensemble de la page. Les niveaux de sous-titres peuvent aussi être utilisés dans les graphiques, les fenêtres de dialogue modale, les tuiles et d’autres cas d’utilisation. Les sous-titres correspondent aux niveaux H2 à H6. H3 - Titre de niveau 3 Les sous-titres sont utilisés pour organiser le contenu et offrir une hiérarchie claire à l’ensemble de la page. Les niveaux de sous-titres peuvent aussi être utilisés dans les graphiques, les fenêtres de dialogue modale, les tuiles et d’autres cas d’utilisation. Les sous-titres correspondent aux niveaux H2 à H6. H4 - Titre de niveau 4 Les sous-titres sont utilisés pour organiser le contenu et offrir une hiérarchie claire à l’ensemble de la page. Les niveaux de sous-titres peuvent aussi être utilisés dans les graphiques, les fenêtres de dialogue modale, les tuiles et d’autres cas d’utilisation. Les sous-titres correspondent aux niveaux H2 à H6. H5 - Titre de niveau 5 Les sous-titres sont utilisés pour organiser le contenu et offrir une hiérarchie claire à l’ensemble de la page. Les niveaux de sous-titres peuvent aussi être utilisés dans les graphiques, les fenêtres de dialogue modale, les tuiles et d’autres cas d’utilisation. Les sous-titres correspondent aux niveaux H2 à H6. H6 - Titre de niveau 6 Les sous-titres sont utilisés pour organiser le contenu et offrir une hiérarchie claire à l’ensemble de la page. Les niveaux de sous-titres peuvent aussi être utilisés dans les graphiques, les fenêtres de dialogue modale, les tuiles et d’autres cas d’utilisation. Les sous-titres correspondent aux niveaux H2 à H6. Paragraphe. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tempor orci at ultrices mollis. Praesent et magna nisl. Vestibulum sit amet lacus in ipsum elementum feugiat ac eget nunc. Vestibulum gravida tincidunt sem, nec hendrerit tellus eleifend vel. Maecenas eu dignissim leo, eget vestibulum odio. Phasellus imperdiet tellus placerat efficitur tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Texte description Liste Vestibulum quis purus sit amet lorem vestibulum finibus sed non eros. Proin ut faucibus tellus. In consequat sagittis ex in vulputate. Phasellus posuere non diam at faucibus. Vestibulum quis purus sit amet lorem vestibulum finibus sed non eros.Fusce elementum mi non luctus sodales. In consequat sagittis ex in vulputate : Fusce elementum mi fringilla nunc in, mollis libero. Fusce elementum mi non luctus sodales. Proin ut faucibus tellus. Phasellus posuere non diam at faucibus. Vestibulum quis purus sit amet lorem vestibulum finibus sed non eros. Donec nec lorem ornare Vestibulum quis purus sit amet lorem vestibulum finibus sed non eros. Donec nec lorem ornare, fringilla nunc in, mollis libero. Donec nec lorem ornare Proin ut faucibus tellus. In consequat sagittis ex in vulputate. Phasellus posuere non diam at faucibus. Donec nec lorem ornare Proin ut faucibus tellus. In consequat sagittis ex in vulputate. Phasellus posuere non diam at faucibus. Vestibulum quis purus sit amet lorem vestibulum finibus sed non eros. Donec nec lorem ornare nec lorem ornare, fringilla nunc in. Donec ac purus finibus ol type=\"a\" - Proin ut faucibus tellus. In consequat sagittis ex in vulputate. Phasellus posuere non diam at faucibus. Vestibulum quis purus sit amet lorem vestibulum finibus sed non eros. Donec , mollis libero. Fusce elementum mi non luctus sodales. Donec nec lorem ornare Donec ac purus finibus Donec nec lorem ornare Donec nec lorem ornare Vestibulum quis purus sit amet lorem vestibulum finibus sed non eros. Ajouter une liste à puce dans un tableau et dans une side bar Company Contact Country Alfreds Futterkiste Maria Anders Germany Centro comercial Moctezuma Francisco Chang Mexico Ernst Handel Roland Mendel Austria Island Trading Helen Bennett UK Laughing Bacchus Winecellars Yoshi Tannamuri Canada Magazzini Alimentari Riuniti Giovanni Rovelli Italy   WYSIWYG H1 - Titre de niveau 1 Le titre s’affiche toujours dans le haut d’une page et n'apparaît qu’une seule fois par page. Le titre correspond au niveau H1. H2 - Titre de niveau 2 Les sous-titres sont utilisés pour organiser le contenu et offrir une hiérarchie claire à l’ensemble de la page. Les niveaux de sous-titres peuvent aussi être utilisés dans les graphiques, les fenêtres de dialogue modale, les tuiles et d’autres cas d’utilisation. Les sous-titres correspondent aux niveaux H2 à H6. H3 - Titre de niveau 3 Les sous-titres sont utilisés pour organiser le contenu et offrir une hiérarchie claire à l’ensemble de la page. Les niveaux de sous-titres peuvent aussi être utilisés dans les graphiques, les fenêtres de dialogue modale, les tuiles et d’autres cas d’utilisation. Les sous-titres correspondent aux niveaux H2 à H6. H4 - Titre de niveau 4 Les sous-titres sont utilisés pour organiser le contenu et offrir une hiérarchie claire à l’ensemble de la page. Les niveaux de sous-titres peuvent aussi être utilisés dans les graphiques, les fenêtres de dialogue modale, les tuiles et d’autres cas d’utilisation. Les sous-titres correspondent aux niveaux H2 à H6. H5 - Titre de niveau 5 Les sous-titres sont utilisés pour organiser le contenu et offrir une hiérarchie claire à l’ensemble de la page. Les niveaux de sous-titres peuvent aussi être utilisés dans les graphiques, les fenêtres de dialogue modale, les tuiles et d’autres cas d’utilisation. Les sous-titres correspondent aux niveaux H2 à H6. H6 - Titre de niveau 6 Les sous-titres sont utilisés pour organiser le contenu et offrir une hiérarchie claire à l’ensemble de la page. Les niveaux de sous-titres peuvent aussi être utilisés dans les graphiques, les fenêtres de dialogue modale, les tuiles et d’autres cas d’utilisation. Les sous-titres correspondent aux niveaux H2 à H6. Paragraphe. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque tempor orci at ultrices mollis. Praesent et magna nisl. Vestibulum sit amet lacus in ipsum elementum feugiat ac eget nunc. Vestibulum gravida tincidunt sem, nec hendrerit tellus eleifend vel. Maecenas eu dignissim leo, eget vestibulum odio. Phasellus imperdiet tellus placerat efficitur tincidunt. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Texte description Liste Vestibulum quis purus sit amet lorem vestibulum finibus sed non eros. Proin ut faucibus tellus. In consequat sagittis ex in vulputate. Phasellus posuere non diam at faucibus. Vestibulum quis purus sit amet lorem vestibulum finibus sed non eros.Fusce elementum mi non luctus sodales. In consequat sagittis ex in vulputate : Fusce elementum mi fringilla nunc in, mollis libero. Fusce elementum mi non luctus sodales. Proin ut faucibus tellus. Phasellus posuere non diam at faucibus. Vestibulum quis purus sit amet lorem vestibulum finibus sed non eros. Donec nec lorem ornare Vestibulum quis purus sit amet lorem vestibulum finibus sed non eros. Donec nec lorem ornare, fringilla nunc in, mollis libero. Donec nec lorem ornare Proin ut faucibus tellus. In consequat sagittis ex in vulputate. Phasellus posuere non diam at faucibus. Donec nec lorem ornare Proin ut faucibus tellus. In consequat sagittis ex in vulputate. Phasellus posuere non diam at faucibus. Vestibulum quis purus sit amet lorem vestibulum finibus sed non eros. Donec nec lorem ornare nec lorem ornare, fringilla nunc in. Donec ac purus finibus ol type=\"a\" - Proin ut faucibus tellus. In consequat sagittis ex in vulputate. Phasellus posuere non diam at faucibus. Vestibulum quis purus sit amet lorem vestibulum finibus sed non eros. Donec , mollis libero. Fusce elementum mi non luctus sodales. Donec nec lorem ornare Donec ac purus finibus Donec nec lorem ornare Donec nec lorem ornare Vestibulum quis purus sit amet lorem vestibulum finibus sed non eros. Ajouter une liste à puce dans un tableau et dans une side bar Company Contact Country Alfreds Futterkiste Maria Anders Germany Centro comercial Moctezuma Francisco Chang Mexico Ernst Handel Roland Mendel Austria Island Trading Helen Bennett UK Laughing Bacchus Winecellars Yoshi Tannamuri Canada Magazzini Alimentari Riuniti Giovanni Rovelli Italy Un bouton \"Ajouter une image/vidéo\" doit être présent dans l'éditeur de description de l'événement. Un bouton \"Ajouter une image/vidéo\" doit être présent dans l'éditeur de description de l'événement. + Dans le WYSIWYG [playlist type=\"video\" ids=\"1003\"] https://www.youtube.com/watch?v=sGp4N6hpQSg Test de légende https://vimeopro.com/avenue8inc/ville-de-laval/video/182398679 Test de légende",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "location": {
+                "@type": "Place",
+                "@id": "https://www.laval.ca/places/centropolis/",
+                "name": "Centropolis",
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "1799, avenue Pierre-Péladeau  Laval, (QC) H7T 2Y5",
+                    "addressLocality": "Laval",
+                    "addressRegion": "QC",
+                    "addressCountry": "CA"
+                }
+            },
+            "subEvent": [
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2024-08-29T11:00-04:00",
+                    "endDate": "2025-08-29T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2024-09-05T11:00-04:00",
+                    "endDate": "2025-09-05T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2024-09-12T11:00-04:00",
+                    "endDate": "2025-09-12T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2024-09-19T11:00-04:00",
+                    "endDate": "2025-09-19T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2024-09-26T11:00-04:00",
+                    "endDate": "2025-09-26T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2024-10-03T11:00-04:00",
+                    "endDate": "2025-10-03T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2024-10-10T11:00-04:00",
+                    "endDate": "2025-10-10T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2024-10-17T11:00-04:00",
+                    "endDate": "2025-10-17T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2024-10-24T11:00-04:00",
+                    "endDate": "2025-10-24T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2024-10-31T11:00-04:00",
+                    "endDate": "2025-10-31T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2024-11-07T11:00-05:00",
+                    "endDate": "2025-11-07T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2024-11-14T11:00-05:00",
+                    "endDate": "2025-11-14T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2024-11-21T11:00-05:00",
+                    "endDate": "2025-11-21T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2024-11-28T11:00-05:00",
+                    "endDate": "2025-11-28T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2024-12-05T11:00-05:00",
+                    "endDate": "2025-12-05T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2024-12-12T11:00-05:00",
+                    "endDate": "2025-12-12T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2024-12-19T11:00-05:00",
+                    "endDate": "2025-12-19T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2024-12-26T11:00-05:00",
+                    "endDate": "2025-12-26T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-01-02T11:00-05:00",
+                    "endDate": "2026-01-02T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-01-09T11:00-05:00",
+                    "endDate": "2026-01-09T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-01-16T11:00-05:00",
+                    "endDate": "2026-01-16T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-01-23T11:00-05:00",
+                    "endDate": "2026-01-23T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-01-30T11:00-05:00",
+                    "endDate": "2026-01-30T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-02-06T11:00-05:00",
+                    "endDate": "2026-02-06T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-02-13T11:00-05:00",
+                    "endDate": "2026-02-13T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-02-20T11:00-05:00",
+                    "endDate": "2026-02-20T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-02-27T11:00-05:00",
+                    "endDate": "2026-02-27T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-03-06T11:00-05:00",
+                    "endDate": "2026-03-06T13:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-03-13T11:00-04:00",
+                    "endDate": "2026-03-13T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-03-20T11:00-04:00",
+                    "endDate": "2026-03-20T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-03-27T11:00-04:00",
+                    "endDate": "2026-03-27T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-04-03T11:00-04:00",
+                    "endDate": "2026-04-03T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-04-10T11:00-04:00",
+                    "endDate": "2026-04-10T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-04-17T11:00-04:00",
+                    "endDate": "2026-04-17T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-04-24T11:00-04:00",
+                    "endDate": "2026-04-24T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-05-01T11:00-04:00",
+                    "endDate": "2026-05-01T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-05-08T11:00-04:00",
+                    "endDate": "2026-05-08T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-05-15T11:00-04:00",
+                    "endDate": "2026-05-15T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-05-22T11:00-04:00",
+                    "endDate": "2026-05-22T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-05-29T11:00-04:00",
+                    "endDate": "2026-05-29T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-06-05T11:00-04:00",
+                    "endDate": "2026-06-05T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-06-12T11:00-04:00",
+                    "endDate": "2026-06-12T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-06-19T11:00-04:00",
+                    "endDate": "2026-06-19T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-06-26T11:00-04:00",
+                    "endDate": "2026-06-26T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-07-03T11:00-04:00",
+                    "endDate": "2026-07-03T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-07-10T11:00-04:00",
+                    "endDate": "2026-07-10T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-07-17T11:00-04:00",
+                    "endDate": "2026-07-17T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-07-24T11:00-04:00",
+                    "endDate": "2026-07-24T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-07-31T11:00-04:00",
+                    "endDate": "2026-07-31T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-08-07T11:00-04:00",
+                    "endDate": "2026-08-07T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-08-14T11:00-04:00",
+                    "endDate": "2026-08-14T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-08-21T11:00-04:00",
+                    "endDate": "2026-08-21T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test Marc – Fiche d’activité récurrente, chaque jour X de la semaine, jusqu’en 2025",
+                    "startDate": "2025-08-28T11:00-04:00",
+                    "endDate": "2026-08-28T13:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled",
+                    "location": {
+                        "@id": "https://www.laval.ca/places/centropolis/"
+                    }
+                }
+            ],
+            "additionalType": [
+                "https://www.laval.ca/Category#court-metrage",
+                "https://www.laval.ca/Category#dessin",
+                "https://www.laval.ca/Public#adultes"
+            ]
+        },
+        {
+            "id": "https://www.laval.ca/Category#court-metrage",
+            "type": "skos:Concept",
+            "name": "Court métrage",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Category"
+            }
+        },
+        {
+            "id": "https://www.laval.ca/Category#dessin",
+            "type": "skos:Concept",
+            "name": "Dessin",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Category"
+            }
+        },
+        {
+            "id": "https://www.laval.ca/Public#adultes",
+            "type": "skos:Concept",
+            "name": "Adultes",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Public"
+            }
+        }
+    ],
+    [
+        {
+            "@context": "http://schema.org",
+            "@type": "Event",
+            "name": "Pour les tests",
+            "startDate": "1970-01-01T09:49-05:00",
+            "endDate": "1970-01-01T09:49-05:00",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "eventStatus": "https://schema.org/EventScheduled"
+        }
+    ],
+    [
+        {
+            "@context": "http://schema.org",
+            "@type": "Event",
+            "name": "Test 1",
+            "startDate": "2025-01-02T10:00-05:00",
+            "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+            "image": "https://www.laval.ca/wp-content/uploads/2024/07/Example-1.jpg",
+            "eventStatus": "https://schema.org/EventScheduled",
+            "offers": {
+                "url": "http://test.test",
+                "priceCurrency": "CAD",
+                "@type": "Offer",
+                "price": "12"
+            },
+            "subEvent": [
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-02T10:00-05:00",
+                    "endDate": "2025-01-02T12:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-02T09:49-05:00",
+                    "endDate": "2025-01-02T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-02T09:49-05:00",
+                    "endDate": "2025-01-02T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-02T09:49-05:00",
+                    "endDate": "2025-01-02T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-02T09:49-05:00",
+                    "endDate": "2025-01-02T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-09T10:00-05:00",
+                    "endDate": "2025-01-09T12:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-09T09:49-05:00",
+                    "endDate": "2025-01-09T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-09T09:49-05:00",
+                    "endDate": "2025-01-09T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-09T09:49-05:00",
+                    "endDate": "2025-01-09T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-09T09:49-05:00",
+                    "endDate": "2025-01-09T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-16T10:00-05:00",
+                    "endDate": "2025-01-16T12:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-16T09:49-05:00",
+                    "endDate": "2025-01-16T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-16T09:49-05:00",
+                    "endDate": "2025-01-16T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-16T09:49-05:00",
+                    "endDate": "2025-01-16T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-16T09:49-05:00",
+                    "endDate": "2025-01-16T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-23T10:00-05:00",
+                    "endDate": "2025-01-23T12:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-23T09:49-05:00",
+                    "endDate": "2025-01-23T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-23T09:49-05:00",
+                    "endDate": "2025-01-23T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-23T09:49-05:00",
+                    "endDate": "2025-01-23T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-23T09:49-05:00",
+                    "endDate": "2025-01-23T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-30T10:00-05:00",
+                    "endDate": "2025-01-30T12:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-30T09:49-05:00",
+                    "endDate": "2025-01-30T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-30T09:49-05:00",
+                    "endDate": "2025-01-30T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-30T09:49-05:00",
+                    "endDate": "2025-01-30T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-01-30T09:49-05:00",
+                    "endDate": "2025-01-30T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-02-06T10:00-05:00",
+                    "endDate": "2025-02-06T12:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-02-06T09:49-05:00",
+                    "endDate": "2025-02-06T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-02-06T09:49-05:00",
+                    "endDate": "2025-02-06T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-02-06T09:49-05:00",
+                    "endDate": "2025-02-06T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-02-06T09:49-05:00",
+                    "endDate": "2025-02-06T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-02-13T10:00-05:00",
+                    "endDate": "2025-02-13T12:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-02-13T09:49-05:00",
+                    "endDate": "2025-02-13T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-02-13T09:49-05:00",
+                    "endDate": "2025-02-13T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-02-13T09:49-05:00",
+                    "endDate": "2025-02-13T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-02-13T09:49-05:00",
+                    "endDate": "2025-02-13T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-02-20T10:00-05:00",
+                    "endDate": "2025-02-20T12:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-02-20T09:49-05:00",
+                    "endDate": "2025-02-20T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-02-20T09:49-05:00",
+                    "endDate": "2025-02-20T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-02-20T09:49-05:00",
+                    "endDate": "2025-02-20T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-02-20T09:49-05:00",
+                    "endDate": "2025-02-20T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-02-27T10:00-05:00",
+                    "endDate": "2025-02-27T12:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-02-27T09:49-05:00",
+                    "endDate": "2025-02-27T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-02-27T09:49-05:00",
+                    "endDate": "2025-02-27T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-02-27T09:49-05:00",
+                    "endDate": "2025-02-27T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-02-27T09:49-05:00",
+                    "endDate": "2025-02-27T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-03-06T10:00-05:00",
+                    "endDate": "2025-03-06T12:00-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-03-06T09:49-05:00",
+                    "endDate": "2025-03-06T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-03-06T09:49-05:00",
+                    "endDate": "2025-03-06T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-03-06T09:49-05:00",
+                    "endDate": "2025-03-06T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-03-06T09:49-05:00",
+                    "endDate": "2025-03-06T09:49-05:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-03-13T10:00-04:00",
+                    "endDate": "2025-03-13T12:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-03-13T09:49-04:00",
+                    "endDate": "2025-03-13T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-03-13T09:49-04:00",
+                    "endDate": "2025-03-13T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-03-13T09:49-04:00",
+                    "endDate": "2025-03-13T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-03-13T09:49-04:00",
+                    "endDate": "2025-03-13T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-03-20T10:00-04:00",
+                    "endDate": "2025-03-20T12:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-03-20T09:49-04:00",
+                    "endDate": "2025-03-20T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-03-20T09:49-04:00",
+                    "endDate": "2025-03-20T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-03-20T09:49-04:00",
+                    "endDate": "2025-03-20T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-03-20T09:49-04:00",
+                    "endDate": "2025-03-20T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-03-27T10:00-04:00",
+                    "endDate": "2025-03-27T12:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-03-27T09:49-04:00",
+                    "endDate": "2025-03-27T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-03-27T09:49-04:00",
+                    "endDate": "2025-03-27T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-03-27T09:49-04:00",
+                    "endDate": "2025-03-27T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-03-27T09:49-04:00",
+                    "endDate": "2025-03-27T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-04-03T10:00-04:00",
+                    "endDate": "2025-04-03T12:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-04-03T09:49-04:00",
+                    "endDate": "2025-04-03T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-04-03T09:49-04:00",
+                    "endDate": "2025-04-03T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-04-03T09:49-04:00",
+                    "endDate": "2025-04-03T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-04-03T09:49-04:00",
+                    "endDate": "2025-04-03T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-04-10T10:00-04:00",
+                    "endDate": "2025-04-10T12:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-04-10T09:49-04:00",
+                    "endDate": "2025-04-10T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-04-10T09:49-04:00",
+                    "endDate": "2025-04-10T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-04-10T09:49-04:00",
+                    "endDate": "2025-04-10T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-04-10T09:49-04:00",
+                    "endDate": "2025-04-10T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-04-17T10:00-04:00",
+                    "endDate": "2025-04-17T12:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-04-17T09:49-04:00",
+                    "endDate": "2025-04-17T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-04-17T09:49-04:00",
+                    "endDate": "2025-04-17T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-04-17T09:49-04:00",
+                    "endDate": "2025-04-17T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-04-17T09:49-04:00",
+                    "endDate": "2025-04-17T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-04-24T10:00-04:00",
+                    "endDate": "2025-04-24T12:00-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-04-24T09:49-04:00",
+                    "endDate": "2025-04-24T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-04-24T09:49-04:00",
+                    "endDate": "2025-04-24T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-04-24T09:49-04:00",
+                    "endDate": "2025-04-24T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                },
+                {
+                    "@type": "Event",
+                    "name": "Test 1",
+                    "startDate": "2025-04-24T09:49-04:00",
+                    "endDate": "2025-04-24T09:49-04:00",
+                    "eventStatus": "https://schema.org/EventScheduled"
+                }
+            ],
+            "additionalType": [
+                "https://www.laval.ca/Category#sport",
+                "https://www.laval.ca/Public#adolescents",
+                "https://www.laval.ca/Public#aines",
+                "https://www.laval.ca/Public#tous"
+            ]
+        },
+        {
+            "id": "https://www.laval.ca/Category#sport",
+            "type": "skos:Concept",
+            "name": "Sport",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Category"
+            }
+        },
+        {
+            "id": "https://www.laval.ca/Public#adolescents",
+            "type": "skos:Concept",
+            "name": "Adolescents",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Public"
+            }
+        },
+        {
+            "id": "https://www.laval.ca/Public#aines",
+            "type": "skos:Concept",
+            "name": "Aînés",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Public"
+            }
+        },
+        {
+            "id": "https://www.laval.ca/Public#tous",
+            "type": "skos:Concept",
+            "name": "Tous",
+            "skos:inScheme": {
+                "id": "https://www.laval.ca/ConceptScheme#Public"
+            }
+        }
+    ]
+]
