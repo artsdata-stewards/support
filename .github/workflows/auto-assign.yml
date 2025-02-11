@@ -11,6 +11,7 @@ jobs:
       - name: Assign issue to the opener
         uses: actions/github-script@v6
         with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             github.issues.addAssignees({
               issue_number: context.issue.number,
