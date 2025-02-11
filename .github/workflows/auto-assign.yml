@@ -1,4 +1,4 @@
-name: Auto Assign Issues
+name: Auto Assign Issues to saumier
 
 on:
   issues:
@@ -8,7 +8,7 @@ jobs:
   auto-assign:
     runs-on: ubuntu-latest
     steps:
-      - name: Assign issue to the opener
+      - name: Assign issue to 'saumier'
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
