@@ -1,4 +1,4 @@
-name: 0 event graph
+name: 0 Event Graph
 description: Use to report graphs with 0 events in Artsdata that should be reviewed.
 title: "[Issue]: "
 labels: ["0 Event Graph"]
