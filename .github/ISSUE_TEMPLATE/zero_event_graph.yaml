@@ -2,6 +2,7 @@ name: 0 Event Graph
 description: Use to report graphs with 0 events in Artsdata that should be reviewed.
 title: "[0 Event Graph]: "
 labels: ["0 Event Graph"]
+assignees: ["saumier"]
 body:
   - type: markdown
     attributes:
