@@ -1,6 +1,7 @@
-name: "Review Missing Events"
-- about: Use to report graphs with 0 events in Artsdata that should be reviewed.
-- label: "Graph 0 events"
+name: Review Missing Events
+description: Use to report graphs with 0 events in Artsdata that should be reviewed.
+title: "[Issue]: "
+labels: ["0 Event Graph"]
 body:
   - type: markdown
     attributes:
