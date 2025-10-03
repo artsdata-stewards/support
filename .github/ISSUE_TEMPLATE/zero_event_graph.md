@@ -1,0 +1,30 @@
+name: Review Missing Events
+about: Use to report graphs with 0 events in Artsdata that should be reviewed.
+label: "Graph 0 events"
+body:
+- type: markdown
+  attributes:
+    value: "## Welcome! "
+- type: markdown
+  attributes:
+    value: |
+      Thanks for taking the time to fill out this issue!
+- type: input
+  id: graph-uri
+  attributes:
+    label: Graph URI
+    description: "Enter the URI of the graph"
+    placeholder: "http://kg.artsdata.ca/culture-creates/artsdata-planet-atc/networks"
+  validations:
+    required: true
+- type: textarea
+  id: reason
+  attributes:
+    label: Reason
+    description: "Why to you think this graph needs review?"
+    value: |
+      1. The graph should have events because ...
+      2. There are 0 events displayed
+    render: bash
+  validations:
+    required: false
