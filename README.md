@@ -1,3 +1,5 @@
 Support
 ==============
-Please add data quality issues found in Artsdata.ca. Use the data quality [issue template](https://github.com/artsdata-stewards/support-issues/issues/new?labels=data+quality&template=bug_report.md).
+Please add data quality issues and flag graphs with 0 events.
+
+[Create a new issue](https://github.com/artsdata-stewards/support-issues/issues/new)
