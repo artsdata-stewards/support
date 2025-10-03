@@ -1,6 +1,6 @@
 name: 0 Event Graph
 description: Use to report graphs with 0 events in Artsdata that should be reviewed.
-title: "[Issue]: "
+title: "[0 Event Graph]: "
 labels: ["0 Event Graph"]
 body:
   - type: markdown
@@ -24,8 +24,7 @@ body:
       label: Reason
       description: "Why to you think this graph needs review?"
       value: |
-        1. The graph should have events because ...
-        2. There are 0 events displayed
+        The graph should have events because ...
       render: bash
     validations:
       required: false
