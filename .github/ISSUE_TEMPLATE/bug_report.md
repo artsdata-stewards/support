@@ -1,5 +1,5 @@
 ---
-name: Data issue report
+name: Data Quality
 about: Create a report to help us improve data quality
 title: ''
 labels: 'data quality'
