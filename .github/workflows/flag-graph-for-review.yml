@@ -40,6 +40,6 @@ jobs:
           echo "Sending maintenance request for $GRAPH_URI by $PUBLISHER"
           echo "Note: $ISSUE_URL"
 
-          curl -X POST "https://staging.api.artsdata.ca/maintenance/flag_for_review" \
+          curl -X POST "https://api.artsdata.ca/maintenance/flag_for_review" \
             -H "Content-Type: application/json" \
             -d "{\"uri\": \"${GRAPH_URI}\", \"publisher\": \"${PUBLISHER}\", \"note\": \"${ISSUE_URL}\"}"
