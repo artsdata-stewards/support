@@ -1,0 +1,45 @@
+name: Flag Graph for Review
+
+on:
+  issues:
+    types: [opened, reopened]
+
+jobs:
+  flag-graph-for-review:
+    if: startsWith(github.event.issue.title, '[0 Event Graph]:')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Extract graph URI from issue body
+        id: extract
+        run: |
+          BODY='${{ github.event.issue.body }}'
+          for part in $BODY; do
+            if [[ $part == http://kg.artsdata.ca* ]]; then
+              GRAPH_URI=$part
+              break
+            fi
+          done
+          echo "graph_uri=$GRAPH_URI" >> $GITHUB_OUTPUT
+          echo "Extracted graph URI: $GRAPH_URI"
+
+      - name: Testing - Print details
+        run: |
+          echo "Extracted graph url is: ${{ steps.extract.outputs.graph_uri }}"
+          echo "Issue URL is: ${{ github.event.issue.html_url }}"
+          echo "Username is: ${{ github.actor }}"
+
+      # - name: Send POST to Artsdata staging API
+      #   env:
+      #     GRAPH_URI: ${{ steps.extract.outputs.graph_uri }}
+      #     ISSUE_URL: ${{ github.event.issue.html_url }}
+      #     USERNAME: ${{ github.actor }}
+      #   run: |
+      #     PUBLISHER="https://github.com/${USERNAME}#this"
+
+      #     echo "Sending maintenance request for $URI by $PUBLISHER"
+      #     echo "Note: $ISSUE_URL"
+
+      #     curl -X POST "https://staging.api.artsdata.ca/maintenance" \
+      #       -H "Content-Type: application/json" \
+      #       -d "{\"uri\": \"${GRAPH_URI}\", \"publisher\": \"${PUBLISHER}\", \"note\": \"${ISSUE_URL}\"}"
