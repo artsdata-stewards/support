@@ -35,9 +35,10 @@ body:
     attributes:
       label: Autominting
       description: "Check this box if the source should be autominted."
-      options: Ready for autominting
+      options: 
+        - Ready for autominting
   - type: textarea
-    id: Notes
+    id: notes
     attributes:
       label: Notes
       description: "Provide any other relevant information. For example, if this website is meant to replace an older source, provide the name of the graph that should be deleted."
