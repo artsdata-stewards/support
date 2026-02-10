@@ -36,7 +36,7 @@ body:
       label: Autominting
       description: "Check this box if the source should be autominted."
       options: 
-        - Label: Ready for autominting
+        - label: Ready for autominting
   - type: textarea
     id: notes
     attributes:
