@@ -1,0 +1,43 @@
+name: Websites to load
+description: Use to track event sources that should be loaded to Artsdata now or at some point in the near future.
+title: "[Website to load]: "
+labels: ["Websites to load"]
+
+body:
+  - type: input
+    id: event-webpage
+    attributes:
+      label: Event webpage URL
+      description: "Enter the URL of the webpage where events are listed"
+      placeholder: "https://example.com/whats-on/"
+  - type: input
+    id: structured-data-score
+    attributes:
+      label: Structured data score
+      description: "Enter the structured data score as a percentage value."
+      placeholder: "72"
+  - type: input
+    id: entity-identifier
+    attributes:
+      label: Entity identifier
+      description: "Enter the CSS selector. Leave this field empty if you are unable to figure out the selector."
+      placeholder: "div.tribe-events-pro-photo__event-featured-image-wrapper"
+  - type: dropdown
+    id: status
+    attributes:
+      label: Status
+      options: 
+        - Need help with entity identifier
+        - Waiting for the provider to make changes to their data
+        - Not sure
+  - type: checkboxes
+    id: autominting
+    attributes:
+      label: Autominting
+      description: "Check this box if the source should be autominted."
+      options: Ready for autominting
+  - type: textarea
+    id: Notes
+    attributes:
+      label: Notes
+      description: "Provide any other relevant information. For example, if this website is meant to replace an older source, provide the name of the graph that should be deleted."
