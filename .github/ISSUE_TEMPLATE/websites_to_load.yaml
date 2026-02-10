@@ -30,13 +30,6 @@ body:
         - Need help with entity identifier
         - Waiting for the provider to make changes to their data
         - Not sure
-  - type: checkboxes
-    id: autominting
-    attributes:
-      label: Autominting
-      description: "Check this box if the source should be autominted."
-      options: 
-        - Ready for autominting
   - type: textarea
     id: notes
     attributes:
