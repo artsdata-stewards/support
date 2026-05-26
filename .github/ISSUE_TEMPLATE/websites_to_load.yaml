@@ -1,5 +1,5 @@
 name: Websites to load
-description: Use to track event sources that should be loaded to Artsdata now or at some point in the near future.
+description: Use to track event sources that should be loaded, auto-minted and ranked now or at some point in the near future.
 title: "[Website to load]: "
 labels: ["Websites to load"]
 
@@ -17,18 +17,27 @@ body:
       description: "Enter the structured data score as a percentage value."
       placeholder: "72"
   - type: input
-    id: entity-identifier
+    id: workflow
     attributes:
-      label: Entity identifier
-      description: "Enter the CSS selector. Leave this field empty if you are unable to figure out the selector."
-      placeholder: "div.tribe-events-pro-photo__event-featured-image-wrapper"
+      label: GitHub workflow
+      description: "Provide a link to the GitHub workflow. Leave this field empty if no workflow has been created yet."
+      placeholder: "https://github.com/artsdata-stewards/artsdata-orion/blob/main/.github/workflows/example-com.yml"
+  - type: input
+    id: already-loaded-graphs
+    attributes:
+      label: Other graphs already loaded to Artsdata
+      description: "If a graph for the organization has already been loaded to Artsdata (via Footlight, Spektrix, or any other group), add the URL here. Otherwise, leave this field empty."
+      placeholder: "http://kg.artsdata.ca/culture-creates/footlight/example-com"
   - type: dropdown
     id: status
     attributes:
       label: Status
       options: 
         - Need help with entity identifier
+        - Awaiting data quality check
         - Waiting for the provider to make changes to their data
+        - Need auto-minting from Culture Creates
+        - Need graph rankings
         - Not sure
   - type: checkboxes
     id: autominting
