@@ -12,22 +12,22 @@ jobs:
     steps:
       - name: Extract graph URI from issue body
         id: extract
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
         run: |
-          BODY='${{ github.event.issue.body }}'
-          for part in $BODY; do
-            if [[ $part == http://kg.artsdata.ca* ]]; then
-              GRAPH_URI=$part
-              break
-            fi
-          done
+          GRAPH_URI=$(printf '%s\n' "$ISSUE_BODY" | grep -Eo 'http://kg\.artsdata\.ca[^[:space:]]+' | head -n 1 || true)
           echo "graph_uri=$GRAPH_URI" >> $GITHUB_OUTPUT
           echo "Extracted graph URI: $GRAPH_URI"
 
       - name: Print details
+        env:
+          EXTRACTED_GRAPH_URI: ${{ steps.extract.outputs.graph_uri }}
+          ISSUE_URL: ${{ github.event.issue.html_url }}
+          USERNAME: ${{ github.actor }}
         run: |
-          echo "Extracted graph url is: ${{ steps.extract.outputs.graph_uri }}"
-          echo "Issue URL is: ${{ github.event.issue.html_url }}"
-          echo "Username is: ${{ github.actor }}"
+          echo "Extracted graph url is: $EXTRACTED_GRAPH_URI"
+          echo "Issue URL is: $ISSUE_URL"
+          echo "Username is: $USERNAME"
 
       - name: Send POST to Artsdata staging API
         env:
