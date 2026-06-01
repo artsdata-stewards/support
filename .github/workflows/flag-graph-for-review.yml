@@ -13,13 +13,11 @@ jobs:
       - name: Extract graph URI from issue body
         id: extract
         run: |
-          BODY='${{ github.event.issue.body }}'
-          for part in $BODY; do
-            if [[ $part == http://kg.artsdata.ca* ]]; then
-              GRAPH_URI=$part
-              break
-            fi
-          done
+          BODY=$(cat <<'EOF'
+          ${{ github.event.issue.body }}
+          EOF
+          )
+          GRAPH_URI=$(printf '%s\n' "$BODY" | grep -Eo 'http://kg\.artsdata\.ca[^[:space:]]+' | head -n 1 || true)
           echo "graph_uri=$GRAPH_URI" >> $GITHUB_OUTPUT
           echo "Extracted graph URI: $GRAPH_URI"
 
