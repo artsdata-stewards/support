@@ -20,10 +20,14 @@ jobs:
           echo "Extracted graph URI: $GRAPH_URI"
 
       - name: Print details
+        env:
+          EXTRACTED_GRAPH_URI: ${{ steps.extract.outputs.graph_uri }}
+          ISSUE_URL: ${{ github.event.issue.html_url }}
+          USERNAME: ${{ github.actor }}
         run: |
-          echo "Extracted graph url is: ${{ steps.extract.outputs.graph_uri }}"
-          echo "Issue URL is: ${{ github.event.issue.html_url }}"
-          echo "Username is: ${{ github.actor }}"
+          echo "Extracted graph url is: $EXTRACTED_GRAPH_URI"
+          echo "Issue URL is: $ISSUE_URL"
+          echo "Username is: $USERNAME"
 
       - name: Send POST to Artsdata staging API
         env:
